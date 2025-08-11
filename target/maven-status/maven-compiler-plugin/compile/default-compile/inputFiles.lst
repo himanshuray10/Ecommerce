@@ -1,0 +1,9 @@
+/workspace/src/main/java/com/example/loan/repository/LoanAccountRepository.java
+/workspace/src/main/java/com/example/loan/service/LoanAccountService.java
+/workspace/src/main/java/com/example/loan/controller/LoanAccountController.java
+/workspace/src/main/java/com/example/loan/integration/LoanAccountClient.java
+/workspace/src/main/java/com/example/loan/dto/LoanAccountResponse.java
+/workspace/src/main/java/com/example/loan/dto/ExternalLoanAccountResponse.java
+/workspace/src/main/java/com/example/loan/model/LoanAccount.java
+/workspace/src/main/java/com/example/loan/LoanApplication.java
+/workspace/src/main/java/com/example/loan/dto/EmiDetail.java
